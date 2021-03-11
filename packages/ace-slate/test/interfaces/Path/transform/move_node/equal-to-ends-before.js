@@ -1,4 +1,4 @@
-import { Path } from 'slate'
+import { Path } from 'ace-slate'
 
 const path = [3, 3]
 
