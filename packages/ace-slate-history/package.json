@@ -1,7 +1,7 @@
 {
   "name": "ace-slate-history",
   "description": "An operation-based history implementation for Slate editors.",
-  "version": "0.60.4",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": "git://github.com/ianstormtaylor/slate.git",
   "main": "dist/index.js",
@@ -18,8 +18,8 @@
     "is-plain-object": "^3.0.0"
   },
   "devDependencies": {
-    "ace-slate": "^0.60.4",
-    "ace-slate-hyperscript": "^0.60.4"
+    "ace-slate": "^1.0.0",
+    "ace-slate-hyperscript": "^1.0.0"
   },
   "peerDependencies": {
     "ace-slate": ">=0.55.0"

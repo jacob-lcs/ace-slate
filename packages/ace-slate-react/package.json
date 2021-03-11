@@ -1,7 +1,7 @@
 {
   "name": "ace-slate-react",
   "description": "Tools for building completely customizable richtext editors with React.",
-  "version": "0.60.4",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": "git://github.com/ianstormtaylor/slate.git",
   "main": "dist/index.js",
@@ -23,14 +23,14 @@
     "scroll-into-view-if-needed": "^2.2.20"
   },
   "devDependencies": {
-    "ace-slate": "^0.60.4",
-    "ace-slate-history": "^0.60.4",
-    "ace-slate-hyperscript": "^0.60.4"
+    "ace-slate": "^1.0.0",
+    "ace-slate-history": "^1.0.0",
+    "ace-slate-hyperscript": "^1.0.0"
   },
   "peerDependencies": {
+    "ace-slate": ">=0.55.0",
     "react": ">=16.8.0",
-    "react-dom": ">=16.8.0",
-    "ace-slate": ">=0.55.0"
+    "react-dom": ">=16.8.0"
   },
   "umdGlobals": {
     "react": "React",
