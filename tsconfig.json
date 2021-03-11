@@ -1,0 +1,9 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./packages/ace-slate" },
+    { "path": "./packages/ace-slate-history" },
+    { "path": "./packages/ace-slate-hyperscript" },
+    { "path": "./packages/ace-slate-react" }
+  ]
+}

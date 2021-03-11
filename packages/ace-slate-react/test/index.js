@@ -1,0 +1,1 @@
+describe('ace-slate-react', () => {})
